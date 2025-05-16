@@ -1,0 +1,35 @@
+let campeao1 = "Ahri";
+let campeao2 = "Yasuo";
+let campeao3 = "Jinx";
+let campeao4 = "Lee Sin";
+let campeao5 = "Lux";
+
+console.log("Meus campeões favoritos são:");
+console.log(campeao1);
+console.log(campeao2);
+console.log(campeao3);
+console.log(campeao4);
+console.log(campeao5);
+
+<button onclick="mostrarCampeoes()">Mostrar Campeões</button>
+
+// Função para mostrar os campeões favoritos
+function mostrarCampeoes() {
+  let campeao1 = "Ahri";
+  let campeao2 = "Yasuo";
+  let campeao3 = "Jinx";
+  let campeao4 = "Lee Sin";
+  let campeao5 = "Lux";
+
+  console.log("Meus campeões favoritos são:");
+  console.log(campeao1);
+  console.log(campeao2);
+  console.log(campeao3);
+  console.log(campeao4);
+  console.log(campeao5);
+
+  // Opcional: Você pode exibir isso na página em vez do console
+  // alert("Meus campeões favoritos são:\n" + campeao1 + "\n" + campeao2 + "\n" + campeao3 + "\n" + campeao4 + "\n" + campeao5);
+}
+
+
